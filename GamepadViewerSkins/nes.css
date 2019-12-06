@@ -1,3 +1,15 @@
+.nes .p0:after {
+    content: '';
+}
+
 .nes .p1:after {
+    content: '';
+}
+
+.nes .p2:after {
+    content: '';
+}
+
+.nes .p3:after {
     content: '';
 }
